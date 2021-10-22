@@ -119,4 +119,8 @@
         <item>\"Semoga Allah membalasmu dengan kebaikan.\"</item>
         <item>\"Aku berlindung kepada Allah dari godaan syaitan yang terkutuk.\"</item>
     </string-array>
+
+    <string name="desk">
+        Set on an island in a striking sail-shaped building, this luxury hotel is a 5-minute walk from Wild Wadi Water Park and 4 km from Mall of the Emirates.
+    </string>
 </resources>
